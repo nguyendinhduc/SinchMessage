@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ducnd/Desktop/DemoCall_Message_Sinch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.0.30/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cebe8e4a3a469c4623addcca1dc571407ff3a08e">
+        <dex dex="/home/ducnd/Desktop/DemoCall_Message_Sinch/app/build/intermediates/pre-dexed/debug/classes-9589dc2a2389761aa8210bc8b8babfa236c2a7d0.jar" />
+    </item>
+    <item
+        jar="/home/ducnd/Desktop/DemoCall_Message_Sinch/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/ducnd/Desktop/DemoCall_Message_Sinch/app/build/intermediates/pre-dexed/debug/classes-e46cb7af631b8e8f68bc89e1b73651c133f411f4.jar" />
+    </item>
+    <item
+        jar="/home/ducnd/Desktop/DemoCall_Message_Sinch/app/libs/Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="/home/ducnd/Desktop/DemoCall_Message_Sinch/app/build/intermediates/pre-dexed/debug/Parse-1.9.4-a14627efa3f321081084c88c47f7d099e3f91fe0.jar" />
+    </item>
+    <item
+        jar="/home/ducnd/Desktop/DemoCall_Message_Sinch/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/ducnd/Desktop/DemoCall_Message_Sinch/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-d857c8dc51e5677fc4fde0c2b709d6fbe7b44968.jar" />
+    </item>
+    <item
+        jar="/home/ducnd/Desktop/DemoCall_Message_Sinch/app/libs/sinch-android-rtc-3.6.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c29e42a729e108f4572076c1b2c66b56ebf7bae">
+        <dex dex="/home/ducnd/Desktop/DemoCall_Message_Sinch/app/build/intermediates/pre-dexed/debug/sinch-android-rtc-3.6.2-ec1a56b79d1140dcd4cf81beb8ab1ac1564abe89.jar" />
+    </item>
+    <item
+        jar="/home/ducnd/Desktop/DemoCall_Message_Sinch/app/libs/ParseCrashReporting-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7a11f2d74111fd9b02c2d091a1b76b82f6a4357e">
+        <dex dex="/home/ducnd/Desktop/DemoCall_Message_Sinch/app/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.9.4-4cf785660d2471bb78d5022cc791a5aa690dffc3.jar" />
+    </item>
+    <item
+        jar="/home/ducnd/Desktop/DemoCall_Message_Sinch/app/libs/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/home/ducnd/Desktop/DemoCall_Message_Sinch/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-fbbc91ffccc809e24a450ee88cf15c1a39831fe1.jar" />
+    </item>
+    <item
+        jar="/home/ducnd/Desktop/DemoCall_Message_Sinch/app/libs/ParseFacebookUtilsV4-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d0490b697e2ff12e81b214d17f166534dfd3bced">
+        <dex dex="/home/ducnd/Desktop/DemoCall_Message_Sinch/app/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.4-83d8ee6b05212f94194580092a4a24163cc12b22.jar" />
+    </item>
+    <item
+        jar="/media/ducnd/Data/Android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/ducnd/Desktop/DemoCall_Message_Sinch/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-9cd6ba1c9ac3b8b84c6ee805b89ce796ea219991.jar" />
+    </item>
+
+</items>

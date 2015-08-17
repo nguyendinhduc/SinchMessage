@@ -1,0 +1,224 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* ic_launcher-web.png
+* jniLibs/
+* jniLibs/Parse-1.9.4-javadoc/
+* jniLibs/Parse-1.9.4-javadoc/allclasses-frame.html
+* jniLibs/Parse-1.9.4-javadoc/allclasses-noframe.html
+* jniLibs/Parse-1.9.4-javadoc/com/
+* jniLibs/Parse-1.9.4-javadoc/com/parse/
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ConfigCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/CountCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/DeleteCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/FindCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/FunctionCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/GetCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/GetDataCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/LocationCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/LogInCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/LogOutCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/Parse.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParseACL.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParseAnalytics.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParseAnonymousUtils.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParseClassName.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParseCloud.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParseConfig.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParseException.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParseFile.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParseGeoPoint.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParseImageView.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParseInstallation.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParseObject.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParsePush.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParsePushBroadcastReceiver.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParseQuery.CachePolicy.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParseQuery.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParseQueryAdapter.OnQueryLoadListener.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParseQueryAdapter.QueryFactory.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParseQueryAdapter.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParseRelation.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParseRole.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParseSession.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParseTwitterUtils.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ParseUser.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/ProgressCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/PushService.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/RefreshCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/RequestPasswordResetCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/SaveCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/SendCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/SignUpCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ConfigCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/CountCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/DeleteCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/FindCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/FunctionCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/GetCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/GetDataCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/LocationCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/LogInCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/LogOutCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/Parse.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParseACL.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParseAnalytics.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParseAnonymousUtils.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParseClassName.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParseCloud.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParseConfig.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParseException.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParseFile.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParseGeoPoint.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParseImageView.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParseInstallation.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParseObject.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParsePush.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParsePushBroadcastReceiver.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParseQuery.CachePolicy.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParseQuery.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParseQueryAdapter.OnQueryLoadListener.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParseQueryAdapter.QueryFactory.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParseQueryAdapter.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParseRelation.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParseRole.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParseSession.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParseTwitterUtils.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ParseUser.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/ProgressCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/PushService.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/RefreshCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/RequestPasswordResetCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/SaveCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/SendCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/class-use/SignUpCallback.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/package-frame.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/package-summary.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/package-tree.html
+* jniLibs/Parse-1.9.4-javadoc/com/parse/package-use.html
+* jniLibs/Parse-1.9.4-javadoc/constant-values.html
+* jniLibs/Parse-1.9.4-javadoc/deprecated-list.html
+* jniLibs/Parse-1.9.4-javadoc/help-doc.html
+* jniLibs/Parse-1.9.4-javadoc/index-all.html
+* jniLibs/Parse-1.9.4-javadoc/index.html
+* jniLibs/Parse-1.9.4-javadoc/overview-tree.html
+* jniLibs/Parse-1.9.4-javadoc/package-list
+* jniLibs/Parse-1.9.4-javadoc/resources/
+* jniLibs/Parse-1.9.4-javadoc/resources/background.gif
+* jniLibs/Parse-1.9.4-javadoc/resources/tab.gif
+* jniLibs/Parse-1.9.4-javadoc/resources/titlebar.gif
+* jniLibs/Parse-1.9.4-javadoc/resources/titlebar_end.gif
+* jniLibs/Parse-1.9.4-javadoc/serialized-form.html
+* jniLibs/Parse-1.9.4-javadoc/stylesheet.css
+* jniLibs/Parse-1.9.4.jar.properties
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/allclasses-frame.html
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/allclasses-noframe.html
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/com/
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/com/parse/
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/com/parse/ParseCrashReporting.html
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/com/parse/class-use/
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/com/parse/class-use/ParseCrashReporting.html
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/com/parse/package-frame.html
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/com/parse/package-summary.html
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/com/parse/package-tree.html
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/com/parse/package-use.html
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/constant-values.html
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/deprecated-list.html
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/help-doc.html
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/index-all.html
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/index.html
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/overview-tree.html
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/package-list
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/resources/
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/resources/background.gif
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/resources/tab.gif
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/resources/titlebar.gif
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/resources/titlebar_end.gif
+* jniLibs/ParseCrashReporting-1.9.4-javadoc/stylesheet.css
+* jniLibs/ParseCrashReporting-1.9.4.jar.properties
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/allclasses-frame.html
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/allclasses-noframe.html
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/com/
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/com/parse/
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/com/parse/ParseFacebookUtils.html
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/com/parse/class-use/
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/com/parse/class-use/ParseFacebookUtils.html
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/com/parse/package-frame.html
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/com/parse/package-summary.html
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/com/parse/package-tree.html
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/com/parse/package-use.html
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/constant-values.html
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/deprecated-list.html
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/help-doc.html
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/index-all.html
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/index.html
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/overview-tree.html
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/package-list
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/resources/
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/resources/background.gif
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/resources/tab.gif
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/resources/titlebar.gif
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/resources/titlebar_end.gif
+* jniLibs/ParseFacebookUtilsV4-1.9.4-javadoc/stylesheet.css
+* jniLibs/ParseFacebookUtilsV4-1.9.4.jar.properties
+* jniLibs/armeabi-v7a/
+* jniLibs/armeabi-v7a/libsinch-android-rtc.so
+* jniLibs/armeabi/
+* jniLibs/armeabi/libsinch-android-rtc.so
+* jniLibs/bolts-android-1.2.0.jar.properties
+* jniLibs/third_party_licenses.txt
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:22.2.1
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets
+* libs/Parse-1.9.4.jar => app/libs/Parse-1.9.4.jar
+* libs/ParseCrashReporting-1.9.4.jar => app/libs/ParseCrashReporting-1.9.4.jar
+* libs/ParseFacebookUtilsV4-1.9.4.jar => app/libs/ParseFacebookUtilsV4-1.9.4.jar
+* libs/armeabi-v7a/libsinch-android-rtc.so => app/src/main/jniLibs/armeabi-v7a/libsinch-android-rtc.so
+* libs/armeabi/libsinch-android-rtc.so => app/src/main/jniLibs/armeabi/libsinch-android-rtc.so
+* libs/bolts-android-1.2.0.jar => app/libs/bolts-android-1.2.0.jar
+* libs/sinch-android-rtc-3.6.2.jar => app/libs/sinch-android-rtc-3.6.2.jar
+* libs/x86/libsinch-android-rtc.so => app/src/main/jniLibs/x86/libsinch-android-rtc.so
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
