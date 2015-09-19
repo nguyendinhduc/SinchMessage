@@ -59,11 +59,6 @@
             android:name="com.ducnd.democall_message_sinch.GCMBroadcastReceive"
             android:exported="true"
             android:permission="com.google.android.c2dm.permission.SEND" >
-            <intent-filter>
-                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-
-                <category android:name="com.ducnd.democall_message_sinch" />
-            </intent-filter>
         </receiver>
 
         <service android:name="com.ducnd.democall_message_sinch.GcmIntentService" />

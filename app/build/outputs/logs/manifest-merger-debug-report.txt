@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:2:1-78:12
+ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:2:1-75:12
 	xmlns:android
 		ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:2:11-69
 	package
@@ -83,7 +83,7 @@ ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManife
 	android:name
 		ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:32:22-91
 application
-ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:35:5-76:19
+ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:35:5-73:19
 MERGED from [com.android.support:support-v4:22.2.1] /home/ducnd/Desktop/DemoCall_Message_Sinch/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:22.2.1] /home/ducnd/Desktop/DemoCall_Message_Sinch/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
 	android:label
@@ -129,32 +129,22 @@ ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManife
 	android:name
 		ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:56:25-77
 receiver#com.ducnd.democall_message_sinch.GCMBroadcastReceive
-ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:59:9-67:20
+ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:59:9-64:20
 	android:exported
 		ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:61:13-36
 	android:permission
 		ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:62:13-73
 	android:name
 		ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:60:13-48
-intent-filter#com.ducnd.democall_message_sinch+com.google.android.c2dm.intent.RECEIVE
-ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:63:13-66:29
-action#com.google.android.c2dm.intent.RECEIVE
-ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:64:17-81
-	android:name
-		ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:64:25-78
-category#com.ducnd.democall_message_sinch
-ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:65:17-77
-	android:name
-		ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:65:27-74
 service#com.ducnd.democall_message_sinch.GcmIntentService
-ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:68:9-53
+ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:65:9-53
 	android:name
-		ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:68:18-50
+		ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:65:18-50
 activity#com.ducnd.democropimage.GalleryUtil
+ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:67:9-69:20
+	android:name
+		ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:67:19-69
+activity#com.ducnd.democropimage.ImageSelecter
 ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:70:9-72:20
 	android:name
-		ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:70:19-69
-activity#com.ducnd.democropimage.ImageSelecter
-ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:73:9-75:20
-	android:name
-		ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:73:19-71
+		ADDED from /home/ducnd/Desktop/DemoCall_Message_Sinch/app/src/main/AndroidManifest.xml:70:19-71

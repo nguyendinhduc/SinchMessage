@@ -330,7 +330,7 @@ public class SendMessage extends Activity implements View.OnClickListener, Actio
     }
 
     private void updateHistory() {
-        ArrayList<ItemListMessage> messagesHistory = new ArrayList<ItemListMessage>();
+//        ArrayList<ItemListMessage> messagesHistory = new ArrayList<ItemListMessage>();
         ParseUser user = ParseUser.getCurrentUser();
 
         if (user == null ) return;

@@ -181,6 +181,7 @@ public class MyService extends Service implements UpdateListView {
 //            sinchClient.registerPushNotificationData(idRegister.getBytes());
             messageClient = client.getMessageClient();
             messageClient.addMessageClientListener(this);
+
         }
 
         @Override
